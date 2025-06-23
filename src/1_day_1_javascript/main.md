@@ -2,7 +2,7 @@
 > Highlights information of additional information that users should take into
 > account, even when skimming.
 
-Make sure you are working on the day-1 branch if you are working on this section of the book.
+Make sure you aren't working directly on the main branch
 
 > [!QUOTE] wow
 > Callouts are amazing
