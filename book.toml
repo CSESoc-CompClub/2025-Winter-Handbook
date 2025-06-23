@@ -1,0 +1,13 @@
+[book]
+title = "2025 Autumn Handbook"
+author = "2025 CompClub Internals Team"
+language = "en"
+
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+
+[preprocessor.callouts]
