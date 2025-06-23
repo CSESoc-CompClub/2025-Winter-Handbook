@@ -10,4 +10,4 @@ To build, open the book and have it auto-update on save, do ``mdbook serve --ope
 Alternatively, you can also use ``mdbook build --open``.
 
 **Make sure you are working and merging into the CORRECT BRANCH!!** 
-E.g. day 1 people should be merging into the day-1 branch. No merging into main just yet.
+E.g. day 1 people should be merging into the day-1 branch. No merging into main just yet. We will merge all the day branches once everything is finished.
