@@ -1,4 +1,4 @@
-# 2025-Autumn-Handbook
+# 2025-CompClub-Winter-Handbook
 
 Use callouts like so: https://crates.io/crates/mdbook-callouts
 
