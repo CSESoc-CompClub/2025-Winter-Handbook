@@ -1,0 +1,10 @@
+## Logical Operators
+
+Logical operators are used to determine the logic between variables or values.
+Given that `x = 6 and y = 3`, the table below explains the logical operators:
+
+| **Operator** | **Description** | **Example**                   |
+| ------------ | --------------- | ----------------------------- |
+| &&           | and             | (x < 10 && y > 1) is true     |
+| \|\|         | or              | (x == 5 \|\| y == 5) is false |
+| !            | not             | !(x == y) is true             |
