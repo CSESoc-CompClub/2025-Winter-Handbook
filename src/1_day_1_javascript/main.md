@@ -1,11 +1,10 @@
-> [!INFO] Main page for day 1!
-> Highlights information of additional information that users should take into
-> account, even when skimming.
+# Introduction to JavaScript
 
-Make sure you aren't working directly on the main branch
+This will guide you through the basics of javascript. Complete the tasks at your own pace.
 
-> [!QUOTE] wow
-> Callouts are amazing
+> [!NOTE] Useful resources
+> Day 1 slides links: [insert link here]
 
-
-Remove the above when you have updated the description of this page.
+> [!IMPORTANT] Not sure? Ask!
+> Mentors are here to help you! We'd rather you ask a question than be struggling on something
+> for way too long.
