@@ -25,7 +25,12 @@
 > console.log(message)
 > ```
 
-> [!IMPORTANT] Tasks
+> [!QUESTION] Question
+> There are some words you cannot use as variable names. Do you remember what these are?
+> You can refer to the slides if you don't remember!
+
+
+> [!SUCCESS] Tasks
 > 1. Create two different type of variables with your own names
 > 2. Print your variables to the console
 > 3. Change the value of your variables and print them before and after the change

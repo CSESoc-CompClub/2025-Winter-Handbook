@@ -32,7 +32,7 @@
 > planet = "jupiter"
 > ```
 
-> [!IMPORTANT] Tasks
+> [!SUCCESS] Tasks
 > 1. Write some comments in your `exercises.js` file
 > 2. Create some variables 
 > 3. Run your file! 
