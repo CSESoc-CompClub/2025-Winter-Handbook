@@ -20,6 +20,12 @@ let data = await response.json()
 console.log(data)
 ```
 
+# Try it yourself:
+
+- Pick an API from the list in the API page, or use our meow facts API: `https://meowfacts.herokuapp.com/` (you can find documentation [here](https://github.com/wh-iterabb-it/meowfacts)), and create a program that prints out different cat facts. 
+
+- Use a loop to call an API multiple times, with different paramaters each time 
+- Further combine APIs and the other features you've been taught to your hearts content!
 
 ## Automagical query parameters
 
