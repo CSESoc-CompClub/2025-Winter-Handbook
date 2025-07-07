@@ -5,7 +5,7 @@
       - [Hello World!](1_day_1_javascript/1_2_1_hello_world.md)
       - [Variables](1_day_1_javascript/1_2_2_variables.md)
 ---
-- [☃️ Day 2 - Building Discord bots with discord.js ☃️](2_day_2_bots/main.md)
+- [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
     - [Setting up](2_day_2_bots/2_1_setting_up.md)
     - [What is the Discord API?](2_day_2_bots/2_2_conceptual_overview.md)
 ---
