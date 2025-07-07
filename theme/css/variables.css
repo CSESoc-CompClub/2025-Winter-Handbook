@@ -15,16 +15,10 @@
 
 /* Themes */
 .scifi {
-  --fg: #00ffcc;
-  --links: #00b3ff;
-  --sidebar-fg: #00eaff;
-  --code-bg: #111111;
-  --font-family: 'Orbitron', sans-serif;
-  --sidebar-bg: linear-gradient(
-    180deg,
-    hsl(262, 36%, 11%),
-    hsl(247, 32%, 23%)
-  );
+  --fg: hsl(262, 96%, 95%);
+
+  --sidebar-bg: linear-gradient(180deg, hsl(262, 36%, 11%), hsl(247, 32%, 23%));
+  --sidebar-fg: #c8c9db;
   --sidebar-non-existant: #505274;
   --sidebar-active: hsl(91, 54%, 52%);
   --sidebar-spacer: #2d334f;
@@ -42,8 +36,8 @@
   --theme-popup-border: #737480;
   --theme-hover: #282e40;
 
-  --quote-bg: hsl(226, 15%, 17%);
-  --quote-border: hsl(226, 15%, 22%);
+  --quote-bg: hsla(226, 15%, 17%, 0.57);
+  --quote-border: hsla(226, 15%, 22%, 0.119);
 
   --warning-border: #ff8e00;
 
@@ -63,8 +57,8 @@
   --color-scheme: dark;
 
   /* Same as `--icons` */
-  --copy-button-filter: invert(51%) sepia(10%) saturate(393%)
-    hue-rotate(198deg) brightness(86%) contrast(87%);
+  --copy-button-filter: invert(51%) sepia(10%) saturate(393%) hue-rotate(198deg)
+    brightness(86%) contrast(87%);
   /* Same as `--sidebar-active` */
   --copy-button-filter-hover: invert(46%) sepia(20%) saturate(1537%)
     hue-rotate(156deg) brightness(85%) contrast(90%);
@@ -72,14 +66,6 @@
   --footnote-highlight: #4079ae;
 
   --overlay-bg: rgba(33, 40, 48, 0.4);
-
-  /* Same as `--icons` */
-  --copy-button-filter: invert(26%) sepia(8%) saturate(575%)
-    hue-rotate(169deg) brightness(87%) contrast(82%);
-  /* Same as `--sidebar-active` */
-  --copy-button-filter-hover: invert(36%) sepia(70%) saturate(503%)
-    hue-rotate(167deg) brightness(98%) contrast(89%);
-  
 }
 
 html.scifi, body.scifi {
