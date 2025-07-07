@@ -1,6 +1,6 @@
 # Part 1: Setting up your environment
-Welcome to Day 1 of CompClub's winter workshops!! Today you'll be putting all that you learnt
-about JavaScript into practice ☃️❄️
+Welcome to Day 1 of CompClub's winter workshops ☃️❄️!! Today you'll be putting all that you learnt
+about JavaScript in the lecture slides into practice!
 
 1. You should have two apps open - a web browser and visual studio code (vscode)
 > [!TIP] Tip

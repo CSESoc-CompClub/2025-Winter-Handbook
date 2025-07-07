@@ -1,4 +1,4 @@
-# Part 3: Variables
+# Part 2.2: Variables
 > [!INFO] Declaring & Reassigning variables
 > You can also create variables in javascript. These are used everywhere in programming
 > to **store values**. Some variables can be changed later on as the context of your code changes. Refer to the [slides](https://go.compclub.org/winter-day-1) to see the main reasons they're used! 
