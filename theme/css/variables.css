@@ -14,6 +14,22 @@
 }
 
 /* Themes */
+.scifi {
+  --fg: #00ffcc;
+  --links: #00b3ff;
+  --sidebar-bg: #0a0a0a;
+  --sidebar-fg: #00eaff;
+  --code-bg: #111111;
+  --font-family: 'Orbitron', sans-serif;
+}
+
+html.scifi, body.scifi {
+  background-image: url("/images/starscape.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
 
 .ayu {
   --bg: hsl(210, 25%, 8%);
