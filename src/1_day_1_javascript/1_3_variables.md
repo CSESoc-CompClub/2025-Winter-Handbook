@@ -1,0 +1,33 @@
+# Part 3: Variables
+> [!INFO] Declaring & Reassigning variables
+> You can also create variables in javascript. These are used everywhere in programming
+> to **store values**. Some variables can be changed later on as the context of your code changes. Refer to the [slides](https://go.compclub.org/winter-day-1) to see the main reasons they're used! 
+> ```javascript
+> // There are two main ways to declare a variable in javascript
+> 
+> // Constant variables
+> const unchanging = 1 
+> unchanging = 5 // will throw an error
+> 
+> // Mutable (changeable) variables
+> let planet = "earth"
+> planet = "jupiter"
+> ```
+
+> [!INFO] Printing variables
+> You can print your variables with `console.log()`. You can combine this with reassigning variables
+> to print different messages. 
+> ```javascript
+> let message = "Hello World!"
+> console.log(message)
+> 
+> message = "I love CompClub!"
+> console.log(message)
+> ```
+
+> [!IMPORTANT] Tasks
+> 1. Create two different type of variables with your own names
+> 2. Print your variables to the console
+> 3. Change the value of your variables and print them before and after the change
+> 4. Run your file!
+> 5. Make sure you save your code with `ctrl + s`!!
