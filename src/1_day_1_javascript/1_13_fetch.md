@@ -24,7 +24,8 @@ console.log(data)
 
 - Pick an API from the list in the API page, or use our meow facts API: `https://meowfacts.herokuapp.com/` (you can find documentation [here](https://github.com/wh-iterabb-it/meowfacts)), and create a program that prints out different cat facts. 
 
-- Use a loop to call an API multiple times, with different paramaters each time 
+- Use a loop to call an API multiple times, with different paramaters each time.
+- Try combining two APIs at once, or more! How might this be useful to build a larger application?
 - Further combine APIs and the other features you've been taught to your hearts content!
 
 ## Automagical query parameters
