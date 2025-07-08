@@ -25,9 +25,9 @@ for (index in nums) {
 // 11
 ```
 
-[!NOTE] Use case
-for…in is typically used for objects. When looping through arrays, prefer for…of or a traditional for loop to avoid unexpected behavior with inherited properties.
-let person = { name: "Jamie", age: 22, student: true };
+> [!NOTE] Use case
+> for…in is typically used for objects. When looping through arrays, prefer for…of or a traditional for loop to avoid unexpected behavior with inherited properties.
+> let person = { name: "Jamie", age: 22, student: true };
 
 ```
 for (key in person) {
