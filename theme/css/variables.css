@@ -25,8 +25,8 @@
 
   --scrollbar: var(--sidebar-fg);
 
-  --icons: #737480;
-  --icons-hover: #b7b9cc;
+  --icons: #7079d4;
+  --icons-hover: #3c4ee8;
 
   --links: hsl(91, 34%, 52%);
 
@@ -36,8 +36,8 @@
   --theme-popup-border: #737480;
   --theme-hover: #282e40;
 
-  --quote-bg: hsla(226, 15%, 17%, 0.57);
-  --quote-border: hsla(226, 15%, 22%, 0.119);
+  --quote-bg: hsl(226, 15%, 17%);
+  --quote-border: hsl(226, 15%, 22%);
 
   --warning-border: #ff8e00;
 
@@ -68,13 +68,32 @@
   --overlay-bg: rgba(33, 40, 48, 0.4);
 }
 
+.scifi {
+  --color-red-rgb: 251, 70, 76;
+  --color-red: #fb464c;
+  --color-orange-rgb: 233, 151, 63;
+  --color-orange: #e9973f;
+  --color-yellow-rgb: 224, 222, 113;
+  --color-yellow: #e0de71;
+  --color-green-rgb: 68, 207, 110;
+  --color-green: #44cf6e;
+  --color-cyan-rgb: 83, 223, 221;
+  --color-cyan: #53dfdd;
+  --color-blue-rgb: 2, 122, 255;
+  --color-blue: #027aff;
+  --color-purple-rgb: 168, 130, 255;
+  --color-purple: #a882ff;
+  --color-pink-rgb: 250, 153, 205;
+  --color-pink: #fa99cd;
+}
+
 html.scifi, body.scifi {
   background-image: url("/images/winter.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  background-color: #6e6b5e;
+  background-color: #3b2e2a;
   background-blend-mode: multiply;
 }
 
