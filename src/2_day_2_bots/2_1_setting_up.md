@@ -6,18 +6,16 @@ On this page, we'll run you through all the steps to get started building your f
 
 If you have a Discord account already, you can skip this section.
 
-To make a Discord account, 
+To make a Discord account, go to the [registration page](https://discord.com/register), and fill out your details.
 
 > [!WARNING] To use Discord you need to be 13+
 > Discord's Terms of Service requires that its users be over the age of 13 in most countries.
 > If you are making your own account, you should be careful about what age you give Discord.
 > Ask a mentor to borrow a Discord account we've made already, if you need one.
 
-
-
 ## Registering a Bot application
 
-To make a discord bot, you will first need to make a discord account for your discord bot, which can be done [here](https://discord.com/register) if you don't have one already. You can then access discord via the web version, or download the app onto your device.
+Once you have an account, you will need to 
 
 ## Create a Discord server
 
