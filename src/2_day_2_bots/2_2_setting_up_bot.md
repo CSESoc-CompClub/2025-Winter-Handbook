@@ -93,6 +93,11 @@ Your config file holds the specific information needed by **your** bot in partic
 Navigate back to your bot application in the discord developer portal, and go to the `bot` tab. Scroll down until you see the `reset token` button; click this and it should give you your bot's token that you can copy into the config file.
 - It's important to note that your token should be kept as private as possible! if you share your token, other people could add code to and access your discord bot. Make sure you only put it into your `config.json` file and nowhere else.
 
+> [!WARNING] Be careful with your bot token
+> If anyone gets access to your token, they can impersonate your bot, and thus you!
+> Never share it with anyone, and store it somewhere private.
+> If you ever upload your code online to a platform like GitHub, make sure you don't distribute your token with it.
+
 ##### `clientId`:
 
 Navigate to `general information` on the discord developer portal, and copy the text listed as **Application ID**. Paste this into your config file.
