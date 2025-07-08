@@ -42,3 +42,8 @@ async function googler() {
     return await fetch("https://google.com")
 }
 ```
+
+
+# Try it yourself
+
+Try writing some of the functions we explored earlier with `async`. Explore how this may require you to change other functions in order to accommodate this new `async` usage. Do you think this could have consequences in a large code base?

@@ -3,7 +3,6 @@
 - Stands for "Application Programming Interface".
 - Allows us to communicate with websites & programs we don't control.
 
-
 > [!TIP]
 > There are lots of free APIs out there! Try the following page for some.
 >
