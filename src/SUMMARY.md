@@ -14,8 +14,11 @@
 ---
 
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
-  - [API Call Recap](3_day_3_ai/3_1_api_call.md)
-  - [Day 3 🧠 Adding Memory to your AI](3_day_3_ai/3_6_new.md)
+  - [📲 API Call Recap](3_day_3_ai/3_1_api_call.md)
+    - [Calling the API](3_day_3_ai/3_2_caling_the_api.md) 
+    - [Handling the Error](3_day_3_ai/3_3_handling_the_error.md) 
+    - [Running the Program](3_day_3_ai/3_4_running_the_program.md) 
+  - [🧠 Challenge: Adding Memory to your AI](3_day_3_ai/3_6_new.md)
     - [Creating a file](3_day_3_ai/3_7_file.md)
     - [Writing to the file](3_day_3_ai/3_8_writing_to_the_file.md)
     - [Reading from a file](3_day_3_ai/3_9_reading_from_a_file.md)
