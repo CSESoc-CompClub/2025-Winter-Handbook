@@ -36,12 +36,11 @@ for (let i = 0; i <= 10; i += 2) {
 // 10
 ```
 > [!QUESTION] Question
->In a for loop, what are the three parts inside the parentheses used for?
-
-Can you explain what i++ or i += 2 means in simple words?
+> In a for loop, what are the three parts inside the parentheses used for?
+> Can you explain what i++ or i += 2 means in simple words?
 
 > [!SUCCESS] Tasks
->1. Create a for loop that counts from 1 to 5 and prints each number
->2. Create another loop that prints out only odd numbers from 1 to 9
->3. Try changing the start or stop number, does the loop still work?
->4. Print a fun message with each number, like: "Counting... 1", "Counting... 2", etc.
+> 1. Create a for loop that counts from 1 to 5 and prints each number
+> 2. Create another loop that prints out only odd numbers from 1 to 9
+> 3. Try changing the start or stop number, does the loop still work?
+> 4. Print a fun message with each number, like: "Counting... 1", "Counting... 2", etc.

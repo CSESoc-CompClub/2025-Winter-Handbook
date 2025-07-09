@@ -35,8 +35,8 @@ You can call it multiple times with different input to reuse the same logic.
 
 > [!SUCCESS] Tasks
 
->1. Create a function called greet that takes one parameter (name) and returns "Hello, [name]!"
->2. Call your greet function with different names and print the result
->3. Create a function called multiply that takes two numbers and returns their product
->4. Print out the result of calling multiply(3, 4) and multiply(7, 2)
->Bonus: Try writing a function that takes a number and returns whether it's even or odd
+> 1. Create a function called greet that takes one parameter (name) and returns "Hello, [name]!"
+> 2. Call your greet function with different names and print the result
+> 3. Create a function called multiply that takes two numbers and returns their product
+> 4. Print out the result of calling multiply(3, 4) and multiply(7, 2)
+> Bonus: Try writing a function that takes a number and returns whether it's even or odd
