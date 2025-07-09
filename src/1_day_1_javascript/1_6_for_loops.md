@@ -45,4 +45,3 @@ Can you explain what i++ or i += 2 means in simple words?
 2. Create another loop that prints out only odd numbers from 1 to 9
 3. Try changing the start or stop number, does the loop still work?
 4. Print a fun message with each number, like: "Counting... 1", "Counting... 2", etc.
-Don’t forget to save and run your file!
