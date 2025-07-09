@@ -17,9 +17,9 @@ for (number of nums) {
 // 11
 ```
 > [!NOTE] Use case
-> Use for…of when you need direct access to the elements of an iterable.
-> If you need the indexes of an array, a traditional for loop or array.entries() is a better choice.
-> To iterate over object properties, use for…in or Object.keys() / Object.entries().
+> Use `for…of` when you need direct access to the elements of an iterable.
+> If you need the indexes of an array, a traditional for loop or `array.entries()` is a better choice.
+> To iterate over object properties, use `for…in` or `Object.keys()` / `Object.entries()`.
 
 > [!QUESTION] Question
 > What’s the main difference between `for...in` and `for...of`?

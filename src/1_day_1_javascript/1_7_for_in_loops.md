@@ -26,10 +26,10 @@ for (index in nums) {
 ```
 
 > [!NOTE] Use case
-> for…in is typically used for objects. When looping through arrays, prefer for…of or a traditional for loop to avoid unexpected behavior with inherited properties.
+> `for…in` is typically used for objects. When looping through arrays, prefer `for…of` or a traditional for loop to avoid unexpected behavior with inherited properties.
 > let person = { name: "Jamie", age: 22, student: true };
 
-```
+```js
 for (key in person) {
   console.log(key);          // Prints the property name
   console.log(person[key]);  // Prints the value of that property
@@ -52,4 +52,4 @@ for (key in person) {
 > 2. Use a `for...in` loop to print each key and its value
 > 3. Then create an array of your top 3 favourite foods
 > 4. Use a `for...in` loop to print both the index and the food at that index
-> Bonus: Try using `for...of` on the array and compare what it prints!
+> > Bonus: Try using `for...of` on the array and compare what it prints!
