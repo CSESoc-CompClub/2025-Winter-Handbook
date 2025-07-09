@@ -1,7 +1,7 @@
 # Summary
 - [DAY 1 - JAVASCRIPT FUNDAMENTALS](1_day_1_javascript/main.md)
     - [Day 1 File](1_day_1_javascript/1_1_new_file.md)
-    - [For Loops](1_day_1_javascript/1_6_for_loops)
+    - [For Loops](1_day_1_javascript/1_6_for_loops.md)
     - [For In Loops](1_day_1_javascript/1_7_for_in_loops.md)  
     - [For Of Loops](1_day_1_javascript/1_8_for_of_loops.md)
     - [Functions](1_day_1_javascript/1_9_functions.md)
