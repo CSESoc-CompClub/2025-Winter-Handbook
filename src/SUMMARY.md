@@ -4,7 +4,6 @@
     - [🎯 JS Fundamentals](1_day_1_javascript/1_2_fundamentals.md)
       - [Hello World!](1_day_1_javascript/1_2_1_hello_world.md)
       - [Variables](1_day_1_javascript/1_2_2_variables.md)
-    - [Day 1 File](1_day_1_javascript/1_1_new_file.md)
     - [For Loops](1_day_1_javascript/1_6_for_loops.md)
     - [For In Loops](1_day_1_javascript/1_7_for_in_loops.md)  
     - [For Of Loops](1_day_1_javascript/1_8_for_of_loops.md)
