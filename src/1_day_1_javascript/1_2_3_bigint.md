@@ -18,5 +18,5 @@ console.log(sum); // TypeError: Cannot mix BigInt and other types, use explicit 
 
 // add two big integers
 let sum2 = value + 123n;
-console.log(result1); // success
+console.log(sum2); // success
 ```

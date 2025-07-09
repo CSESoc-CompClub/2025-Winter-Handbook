@@ -27,3 +27,27 @@ In this workshop, we are only focusing on the ones in bold.
 
 > [!WARNING] Mismatched Quotes
 > You cannot mismatch quotes in strings. For example, the strings 'hello" and "world' are enclosed inside one single quote and one double quote, which results in an error.
+
+## typeof
+
+Using `typeof` on a variable returns the data type associated with the given variable.
+
+```js
+typeof "Poco" // String
+typeof 420 // number
+typeof true // boolean
+typeof x // undefined - we haven’t given x a value
+```
+
+---
+
+> [!QUESTION] Knowledge Check
+>  What are the data types for each of these variables?
+> ```js
+> let cat = "black";
+> let numBats = 12;
+> let poisonProb = 0.5;
+> let isPumpkinOrange = true
+> ```
+
+

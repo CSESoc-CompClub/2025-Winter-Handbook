@@ -8,11 +8,11 @@ let fruit = "apple";
 console.log(fruit);
 
 // string enclosed within double quotes
-let country = "banana";
+let state = "NSW";
 console.log(country);
 
 // string enclosed within backticks
-let result = `cherry`;
+let result = `success`;
 console.log(result);
 ```
 

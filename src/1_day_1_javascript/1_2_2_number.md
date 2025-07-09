@@ -14,3 +14,10 @@ console.log(integer_number);
 let float_number = 3.15;
 console.log(float_number);
 ```
+
+> [!INFO] Limit of numbers
+> Numbers are restricted in how large they can be.
+> ```js
+> let numApples = 9999999999999999; // y will be 10000000000000000
+> let numBananas = 999999999999999; // x will be 999999999999999
+> ```
