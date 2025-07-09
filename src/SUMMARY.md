@@ -7,6 +7,8 @@
 ---
 - [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
+    - [Events and Listeners](2_day_2_bots/2_5_1_events.md)
+    - [Slash Commands](2_day_2_bots/2_5_2_slash_commands.md)
 ---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
     - [Day 3 File](3_day_3_ai/3_1_new_file.md)
