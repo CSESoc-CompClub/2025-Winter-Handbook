@@ -26,7 +26,6 @@ for (number of nums) {
 > Which one would you use if you wanted to loop over a string’s characters?
 
 > [!SUCCESS] Tasks
-
 > 1. Create an array of 5 hobbies or interests.
 > 2. Use `for...of` to print each one.
 > 3. Try the same thing with a string (e.g. "hello") and print each letter.
