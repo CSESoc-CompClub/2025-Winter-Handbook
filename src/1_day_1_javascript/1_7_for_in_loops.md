@@ -44,12 +44,12 @@ for (key in person) {
 ```
 
 > [!QUESTION] Question
->What’s the difference between what for in gives you when looping through an array vs an object?
->Can you explain why using nums[index] is needed when looping through arrays?
+> What’s the difference between what for in gives you when looping through an array vs an object?
+> Can you explain why using `nums[index]` is needed when looping through arrays?
 
 > [!SUCCESS] Tasks
 > 1. Create an object called book with at least 3 properties (e.g., title, author, pages)
-> 2. Use a for...in loop to print each key and its value
+> 2. Use a `for...in` loop to print each key and its value
 > 3. Then create an array of your top 3 favourite foods
-> 4. Use a for...in loop to print both the index and the food at that index
-> Bonus: Try using for...of on the array and compare what it prints!
+> 4. Use a `for...in` loop to print both the index and the food at that index
+> Bonus: Try using `for...of` on the array and compare what it prints!

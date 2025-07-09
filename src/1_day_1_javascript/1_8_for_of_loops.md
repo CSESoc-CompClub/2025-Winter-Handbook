@@ -22,13 +22,13 @@ for (number of nums) {
 > To iterate over object properties, use for…in or Object.keys() / Object.entries().
 
 > [!QUESTION] Question
-> What’s the main difference between for...in and for...of?
+> What’s the main difference between `for...in` and `for...of`?
 > Which one would you use if you wanted to loop over a string’s characters?
 
-[!SUCCESS] Tasks
+> [!SUCCESS] Tasks
 
 > 1. Create an array of 5 hobbies or interests.
-> 2. Use for...of to print each one.
+> 2. Use `for...of` to print each one.
 > 3. Try the same thing with a string (e.g. "hello") and print each letter.
 > 4. Try mixing it up: can you figure out how to get both index and value? (Hint: use .entries() with for...of!)
-> Bonus: Compare the output of for...in vs for...of on the same array!
+> Bonus: Compare the output of `for...in` vs `for...of` on the same array!
