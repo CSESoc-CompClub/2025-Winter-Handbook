@@ -9,4 +9,4 @@
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
 ---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
-    - [Day 3 File](3_day_3_ai/3_1_new_file.md)
+    - [API Call Recap](3_day_3_ai/3_1_api_call.md)
