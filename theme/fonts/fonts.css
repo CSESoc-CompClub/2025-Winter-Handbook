@@ -37,16 +37,6 @@
   src: url('{{ resource "fonts/CascadiaCode-Italic-VariableFont_wght.ttf" }}')
     format("ttf");
 }
-
-<<<<<<< HEAD
-@font-face {
-  font-family: "Squid Game";
-  font-style: normal;
-  font-weight: 500;
-  src: url('{{ resource "fonts/GameOfSquids.ttf"}}')
-    format("ttf");
-}
-=======
 /*
   Source Code Pro
 */
@@ -66,4 +56,3 @@
   src: url('{{ resource "fonts/SourceCodePro-Italic-VariableFont_wght.ttf" }}')
     format("ttf");
 }
->>>>>>> main

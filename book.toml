@@ -9,7 +9,7 @@ build-dir = "book"
 
 [output.html]
 default-theme = "scifi"
-additional-css = ["./mdbook-admonish.css"]
+additional-css = ["theme/custom.css"]
 
 [preprocessor.callouts]
 
