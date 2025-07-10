@@ -16,7 +16,7 @@
 > console.log(float_number);
 > ```
 
-> [!WARNING] Too large!
+> [!CAUTION] Too large!
 > Numbers are restricted in how large they can be.
 > ```js
 > let numApples = 9999999999999999; // y will be 10000000000000000

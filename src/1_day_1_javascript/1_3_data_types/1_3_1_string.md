@@ -17,7 +17,7 @@
 > console.log(result);
 > ```
 
-> [!WARNING] Mismatched Quotes
+> [!CAUTION] Mismatched Quotes
 > You cannot mismatch quotes in strings. For example, the strings `'hello"` and `"world'` are enclosed inside one single quote and one double quote, which results in an error.
 
 > [!INFO] String Methods
