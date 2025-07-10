@@ -1,6 +1,7 @@
 # Summary
 
 - [❄️ DAY 1 - INTRO TO JAVASCRIPT ❄️](1_day_1_javascript/main.md)
+<<<<<<< HEAD
   - [💻 Setup](1_day_1_javascript/1_1_setup.md)
   - [🎯 JS Fundamentals](1_day_1_javascript/1_2_fundamentals.md)
     - [Hello World!](1_day_1_javascript/1_2_1_hello_world.md)
@@ -11,9 +12,39 @@
 - [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
   - [Day 2 File](2_day_2_bots/2_1_new_file.md)
 
+=======
+    - [💻 Setup](1_day_1_javascript/1_1_setup/1_1_setup.md)
+    - [🎯 JS Fundamentals](1_day_1_javascript/1_2_js_fundamentals/1_2_fundamentals.md)
+      - [Hello World!](1_day_1_javascript/1_2_js_fundamentals/1_2_1_hello_world.md)
+      - [Variables](1_day_1_javascript/1_2_js_fundamentals/1_2_2_variables.md)
+    - [🎨 Data Types](1_day_1_javascript/1_3_data_types/1_3_data_types.md)
+      - [Strings](1_day_1_javascript/1_3_data_types/1_3_1_string.md)
+      - [Numbers](1_day_1_javascript/1_3_data_types/1_3_2_number.md)
+      - [Booleans](1_day_1_javascript/1_3_data_types/1_3_3_boolean.md)
+      - [Typeof](1_day_1_javascript/1_3_data_types/1_3_4_typeof.md)
+    - [📐 Logic & Arithmetic Operators](1_day_1_javascript/1_4_logic_arithmetic/1_4_operators.md)
+      - [Arithmetic](1_day_1_javascript/1_4_logic_arithmetic/1_4_1_arithmetic.md)
+      - [Assignment](1_day_1_javascript/1_4_logic_arithmetic/1_4_2_assignment.md)
+      - [Comparison](1_day_1_javascript/1_4_logic_arithmetic/1_4_3_comparison.md)
+      - [Logical](1_day_1_javascript/1_4_logic_arithmetic/1_4_4_logical.md)
+    - [🎲 Conditionals](1_day_1_javascript/1_5_conditionals/1_5_conditionals.md)
+      - [If, Else If, Else](1_day_1_javascript/1_5_conditionals/1_5_1_ifelse.md)
+      - [Switches](1_day_1_javascript/1_5_conditionals/1_5_2_switch.md)
+    - [🔁 For Loops](1_day_1_javascript/1_6_loops/1_6_loops.md)
+      - [While](1_day_1_javascript/1_6_loops/1_6_1_while.md)
+      - [For](1_day_1_javascript/1_6_loops/1_6_2_for_loops.md)
+      - [For...in](1_day_1_javascript/1_6_loops/1_6_3_for_in_loops.md)
+      - [For...of](1_day_1_javascript/1_6_loops/1_6_4_for_of_loops.md)
+    - [📜 Functions](1_day_1_javascript/1_7_functions/1_7_functions.md)
+---
+- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
+
+    - [Day 2 File](2_day_2_bots/2_1_new_file.md)
+>>>>>>> main
 ---
 
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
+<<<<<<< HEAD
   - [📲 API Call Recap](3_day_3_ai/3_1_api_call.md)
     - [Calling the API](3_day_3_ai/3_2_caling_the_api.md) 
     - [Handling the Error](3_day_3_ai/3_3_handling_the_error.md)
@@ -25,3 +56,6 @@
     - [Creating a file](3_day_3_ai/3_9_file.md)
     - [Writing to the file](3_day_3_ai/3_10_writing_to_the_file.md)
     - [Reading from a file](3_day_3_ai/3_11_reading_from_a_file.md)
+=======
+    - [Day 3 File](3_day_3_ai/3_1_new_file.md)
+>>>>>>> main

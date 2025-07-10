@@ -18,10 +18,10 @@
 > Just put whatever you want to print in between the brackets. Printing is useful for finding the cause of errors (also known as debugging 🐛) and for monitoring code execution.
 > ```javascript
 > // prints Hello World! to the terminal
-> console.log("Hello World")
+> console.log("Hello World");
 > 
 > // prints 50 to the terminal
-> console.log(50)
+> console.log(50);
 > ```
 
 > [!TIP] Running your code
