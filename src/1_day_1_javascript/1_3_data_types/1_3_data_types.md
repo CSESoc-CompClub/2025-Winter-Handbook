@@ -42,7 +42,7 @@ typeof x // undefined - we haven’t given x a value
 ---
 
 > [!QUESTION] Knowledge Check
->  What are the data types for each of these variables?
+> What are the data types for each of these variables?
 > ```js
 > let cat = "black";
 > let numBats = 12;
