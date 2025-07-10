@@ -36,6 +36,23 @@
 > 
 > If you want your bot to run something only once (the first time only), you can set `once` to `true`. An example can be seen in `clientReady.js`, which prints a message in the terminal once when starting the bot.
 
+> [!WARNING] Possible errors
+> In the above code, you may get an error "Used disallowed intents". If so, it is likely that your bot is trying to read messages, but is not allowed to by discord.
+>
+> To fix this, go to the discord developer site for your bot, go to the Bot section on the sidebar, and enable "MESSAGE CONTENT INTENT". Also, in `index.js`, replace 
+> ```javacript
+> const client = new Client({ intents: [GatewayIntentBits.Guilds] });
+> ```
+> with 
+> ```javascript
+> const client = new Client({ 
+> 	intents: [
+> 		GatewayIntentBits.Guilds,
+> 		GatewayIntentBits.GuildMessages,
+> 		GatewayIntentBits.MessageContent
+> 	]
+> });
+> ```
 
 > [!INFO] There are many events!
 > Your bot can listen for many events, like messages, member joins, reactions, and more!
