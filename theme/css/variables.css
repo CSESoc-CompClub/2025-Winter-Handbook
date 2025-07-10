@@ -8,7 +8,7 @@
   --content-max-width: 750px;
   --menu-bar-height: 50px;
   --body-font: "Nunito", "Ubuntu", sans-serif;
-  --mono-font: "Source Code Pro", "Ubuntu Mono", Menlo, "DejaVu Sans Mono",
+  --mono-font: "Cascadia Code", "Ubuntu Mono", Menlo, "DejaVu Sans Mono",
     monospace;
   --code-font-size: 0.875em; /* please adjust the ace font size accordingly in editor.js */
 }

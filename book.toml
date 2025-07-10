@@ -9,5 +9,6 @@ build-dir = "book"
 
 [output.html]
 default-theme = "scifi"
+additional-css = ["theme/custom.css"]
 
 [preprocessor.callouts]
