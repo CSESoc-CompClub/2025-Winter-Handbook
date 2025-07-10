@@ -37,3 +37,23 @@
   src: url('{{ resource "fonts/CascadiaCode-Italic-VariableFont_wght.ttf" }}')
     format("ttf");
 }
+
+/*
+  Source Code Pro
+*/
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 1 999;
+  src: url('{{ resource "fonts/SourceCodePro-VariableFont_wght.ttf" }}')
+    format("truetype-variations");
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url('{{ resource "fonts/SourceCodePro-Italic-VariableFont_wght.ttf" }}')
+    format("ttf");
+}

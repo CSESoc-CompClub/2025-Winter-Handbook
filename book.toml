@@ -8,6 +8,7 @@ language = "en"
 build-dir = "book"
 
 [output.html]
-default-theme = "light"
+default-theme = "scifi"
+additional-css = ["theme/custom.css"]
 
 [preprocessor.callouts]
