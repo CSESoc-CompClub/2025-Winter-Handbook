@@ -1,53 +1,20 @@
-# Data Types
+# 3 - Data Types
 
-JavaScript has 8 datatypes:
+In this part you will learn about:
+- Strings
+- Numbers
+- Booleans
+- Extracting the type of variables
 
-- **String**
-- **Number**
-- **Bigint**
-- **Boolean**
-- Undefined
-- Null
-- Symbol
-- Object
-
-In this workshop, we are only focusing on the ones in bold.
-
-| **Data Type** | **Description**                       | **Examples**            |
-| ------------- | ------------------------------------- | ----------------------- |
-| String        | Textual data                          | "hello", "hello world!" |
-| Number        | An integer or a floating-point number | 3, 3.234, 3e-2          |
-| BigInt        | An integer with arbitrary precision   | 900719925124740999n, 1n |
-| Boolean       | Any of two values: true or false      | true and false          |
+On top of strings, numbers and booleans, there are 5 other data types that JavaScript has mentioned in the slides!
 
 > [!TIP] Why do we need data types?
-> In programming, data types is an important concept. To be able to operate on variables, it is important to know something about the type. Without data types, a computer cannot safely solve this:
->
-> > let x = 123 + "chicken";
-
-> [!WARNING] Mismatched Quotes
-> You cannot mismatch quotes in strings. For example, the strings 'hello" and "world' are enclosed inside one single quote and one double quote, which results in an error.
-
-## typeof
-
-Using `typeof` on a variable returns the data type associated with the given variable.
-
-```js
-typeof "Poco" // String
-typeof 420 // number
-typeof true // boolean
-typeof x // undefined - we haven’t given x a value
-```
-
----
-
-> [!QUESTION] Knowledge Check
-> What are the data types for each of these variables?
+> In programming, data types are an important concept. You can get some strange behaviour in computers when you combine data types, so most languages throw errors if you combine 2 different data types. JavaScript **does not** throw these errors, but that doesn't mean you shouldn't care about mixing data types! Instead of this:
+> 
 > ```js
-> let cat = "black";
-> let numBats = 12;
-> let poisonProb = 0.5;
-> let isPumpkinOrange = true
+> let x = 123 + "chicken";  //bad!!!
 > ```
-
-
+> You should have:
+> ```js
+> let x = "123" + "chicken"; //good :D
+> ```

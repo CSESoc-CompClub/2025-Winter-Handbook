@@ -4,11 +4,11 @@
     - [🎯 JS Fundamentals](1_day_1_javascript/1_2_js_fundamentals/1_2_fundamentals.md)
       - [Hello World!](1_day_1_javascript/1_2_js_fundamentals/1_2_1_hello_world.md)
       - [Variables](1_day_1_javascript/1_2_js_fundamentals/1_2_2_variables.md)
-    - [🧑‍🎨 Data Types](1_day_1_javascript/1_3_data_types/1_3_data_types.md)
+    - [🎨 Data Types](1_day_1_javascript/1_3_data_types/1_3_data_types.md)
       - [Strings](1_day_1_javascript/1_3_data_types/1_3_1_string.md)
       - [Numbers](1_day_1_javascript/1_3_data_types/1_3_2_number.md)
-      - [Big Int](1_day_1_javascript/1_3_data_types/1_3_3_bigint.md)
-      - [Booleans](1_day_1_javascript/1_3_data_types/1_3_4_boolean.md)
+      - [Booleans](1_day_1_javascript/1_3_data_types/1_3_3_boolean.md)
+      - [Typeof](1_day_1_javascript/1_3_data_types/1_3_4_typeof.md)
     - [📐 Logic & Arithmetic Operators](1_day_1_javascript/1_4_logic_arithmetic/1_4_operators.md)
       - [Arithmetic](1_day_1_javascript/1_4_logic_arithmetic/1_4_1_arithmetic.md)
       - [Assignment](1_day_1_javascript/1_4_logic_arithmetic/1_4_2_assignment.md)
@@ -23,8 +23,7 @@
       - [For...in](1_day_1_javascript/1_6_loops/1_6_3_for_in_loops.md)
       - [For...of](1_day_1_javascript/1_6_loops/1_6_4_for_of_loops.md)
     - [📜 Functions](1_day_1_javascript/1_7_functions/1_7_functions.md)
-  
-
+---
 - [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
 
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
