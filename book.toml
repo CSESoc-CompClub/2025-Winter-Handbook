@@ -9,5 +9,10 @@ build-dir = "book"
 
 [output.html]
 default-theme = "scifi"
+additional-css = ["./mdbook-admonish.css"]
 
 [preprocessor.callouts]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
