@@ -6,24 +6,24 @@
 > // There are two main ways to declare a variable in javascript
 > 
 > // Constant variables
-> const unchanging = 1 
-> unchanging = 5 // will throw an error
+> const unchanging = 1;
+> unchanging = 5; // will throw an error
 > 
 > // Mutable (changeable) variables
 > // The name of the variable here is planet, and the value is "earth".
-> let planet = "earth"
-> planet = "jupiter"
+> let planet = "earth";
+> planet = "jupiter";
 > ```
 
 > [!INFO] Printing variables
 > You can print your variables with `console.log()`. You can combine this with reassigning variables
 > to print different messages. 
 > ```javascript
-> let message = "Hello World!"
-> console.log(message)
+> let message = "Hello World!";
+> console.log(message);
 > 
-> message = "I love CompClub!"
-> console.log(message)
+> message = "I love CompClub!";
+> console.log(message);
 > ```
 
 > [!QUESTION] Question

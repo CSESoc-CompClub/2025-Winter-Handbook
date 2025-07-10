@@ -14,8 +14,8 @@
 > The modulo operator is a little complicated when first seeing it, but once you understand that it's all about
 > **remainders**, it's not so bad!
 > ```js
-> x = 21
-> console.log(x % 4) // 21 ÷ 4 = 5 remainder 1, so this will print 1
+> x = 21;
+> console.log(x % 4); // 21 ÷ 4 = 5 remainder 1, so this will print 1
 > ```
 > Another big use for the modulo operator is by checking whether a number is **odd or even**. We can do this by doing `x % 2` - an odd number has a remainder when divided by 2, whilst an even number has no remainder!
 

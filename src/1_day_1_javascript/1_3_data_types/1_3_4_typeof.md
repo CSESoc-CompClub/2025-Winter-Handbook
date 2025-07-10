@@ -4,10 +4,10 @@
 > Using `typeof` on a variable returns the data type associated with the given variable.
 > 
 > ```js
-> typeof "Poco" // String
-> typeof 420 // number
-> typeof true // boolean
-> typeof x // undefined - we haven’t given x a value
+> console.log(typeof "Poco"); // String
+> console.log(typeof 420); // number
+> console.log(typeof true); // boolean
+> console.log(typeof x); // undefined - we haven’t given x a value
 > ```
 
 > [!QUESTION] Knowledge Check
@@ -16,7 +16,7 @@
 > let cat = "black";
 > let numBats = 12;
 > let poisonProb = 0.5;
-> let isPumpkinOrange = true
+> let isPumpkinOrange = true;
 > ```
 
 > [!SUCCESS] Tasks

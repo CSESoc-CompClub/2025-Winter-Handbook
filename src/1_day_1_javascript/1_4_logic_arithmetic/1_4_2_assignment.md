@@ -14,17 +14,17 @@
 
 > [!TIP] Code Examples
 > ```js
-> x = 10
-> x += 3 // shorthand for x = x + 3
-> console.log(x) // should output 13 since 10 + 3 = 13
+> x = 10;
+> x += 3; // shorthand for x = x + 3
+> console.log(x); // should output 13 since 10 + 3 = 13
 > 
-> x = 10
-> x /= 5 // shorthand for x = x ÷ 5
-> console.log(x) // outputs 2, since 10 ÷ 5 = 2
+> x = 10;
+> x /= 5; // shorthand for x = x ÷ 5
+> console.log(x); // outputs 2, since 10 ÷ 5 = 2
 > 
-> x = 10
-> x++ 
-> console.log(x) // outputs 11, since 10 + 1 = 11
+> x = 10;
+> x++; 
+> console.log(x); // outputs 11, since 10 + 1 = 11
 > ```
 
 > [!SUCCESS] Assignment Operators

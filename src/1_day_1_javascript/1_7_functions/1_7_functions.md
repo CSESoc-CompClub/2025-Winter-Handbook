@@ -21,9 +21,9 @@
 > 
 > console.log(result1); // 9
 > console.log(result2); // 21
-> addNums takes 2 arguments each time.
 > ```
-> 
+>
+> In the above function, the name is `addNums`, parameters are `a` and `b`, and the body is `return a + b`
 > You can call it multiple times with different input to reuse the same logic.
 
 > [!QUESTION] Question
