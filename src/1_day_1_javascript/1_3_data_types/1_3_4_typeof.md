@@ -1,4 +1,4 @@
-## 3.4 - What's that type?
+# 3.4 - What's that type?
 
 > [!INFO] Checking variable types
 > Using `typeof` on a variable returns the data type associated with the given variable.

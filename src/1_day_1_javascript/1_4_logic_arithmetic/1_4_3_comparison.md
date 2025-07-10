@@ -1,4 +1,4 @@
-## 4.3 - Comparison Operators
+# 4.3 - Comparison Operators
 
 > [!INFO] Comparison Operators
 > Comparison operators are used in logical statements to determine equality or difference between variables or values.

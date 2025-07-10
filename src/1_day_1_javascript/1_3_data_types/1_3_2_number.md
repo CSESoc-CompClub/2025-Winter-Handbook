@@ -1,4 +1,4 @@
-## 3.2 - JavaScript Numbers
+# 3.2 - JavaScript Numbers
 
 > [!INFO] Numbers
 > In JavaScript, the **number** type represents numeric values (both integers and floating-point numbers).

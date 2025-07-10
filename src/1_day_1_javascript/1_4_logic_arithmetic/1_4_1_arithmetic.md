@@ -1,4 +1,4 @@
-## 4.1 - Math with Arithmetic Operators
+# 4.1 - Math with Arithmetic Operators
 
 > [!INFO] Arithmetic Operators
 > There are multiple ways we can operate on numbers, just like in math!

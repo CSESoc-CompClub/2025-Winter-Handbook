@@ -1,4 +1,4 @@
-## 5.2 - Switching it up!
+# 5.2 - Switching it up!
 > [!IMPORTANT] This Exercise Is Optional
 
 > [!INFO] Switch Statements
@@ -58,7 +58,7 @@
 > }
 > ```
 
-> [!NOTE] Break Statement
+> [!CAUTION] Break Statement
 > When JavaScript reaches a break keyword, it breaks out of the switch block.
 > If you omit the break statement, execution will continue to the next case regardless of whether its condition matches.
 

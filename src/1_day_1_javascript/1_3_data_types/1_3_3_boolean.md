@@ -1,4 +1,4 @@
-## 3.3 - JavaScript Booleans
+# 3.3 - JavaScript Booleans
 
 > [!INFO] Booleans
 > A **Boolean** data can only have one of two values: true or false.

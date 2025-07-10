@@ -1,4 +1,4 @@
-## 4.4 - Logical Operators
+# 4.4 - Logical Operators
 
 > [!INFO] Logical Operators
 > Logical operators are used to determine the logic between variables or values.

@@ -1,4 +1,4 @@
-## 4.2 - Assignment Operators
+# 4.2 - Assignment Operators
 
 > [!INFO] Assignment Operators
 > | **Operator** | **Meaning**                                                        | **Example**         |

@@ -71,11 +71,11 @@
 
 > [!SUCCESS] Your Turn: Conditionals Task
 > Set your favorite color in the variable below then use conditionals to print a message:
->
+> 
 > ```js
 > let favoriteColor = "red"; // try changing this to blue, green, etc
 > ```
->
+> 
 > - If the color is **Red** → print `Roses are red`
 > - If the color is **Blue** → print `The sky is blue`
 > - For any other color → print `That's a cool color!`

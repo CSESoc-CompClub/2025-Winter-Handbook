@@ -1,4 +1,4 @@
-## 3.1 - JavaScript Strings
+# 3.1 - JavaScript Strings
 
 > [!INFO] Strings
 > A string represents **textual** data. It contains a sequence of characters. For example, "hello", "JavaScript", etc. In
