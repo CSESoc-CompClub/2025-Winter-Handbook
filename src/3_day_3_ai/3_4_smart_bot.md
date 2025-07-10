@@ -42,8 +42,7 @@ const client = new OpenAI({ apiKey: aiApiKey });
 
 In order to send and receive information from the Open AI API, we need to ask our client to create a response for us. 
 
-Here we need to specify the input and the model type. The input can be anything you want to ask the AI. Open AI has several model type based on the difficulty and type of processing your input requires. Today we will be using gpt-3.5-turbo.
-
+Here we need to specify the input and the model type. The input can be anything you want to ask the AI. Open AI has several model type based on the difficulty and type of processing your input requires. Today we will be using gpt-3.5-turbo, this will give us text only responses.
 
 ```js
 const response = await client.responses.create({
@@ -86,14 +85,34 @@ To call an async function we need to use the keyword await.
 const y = await my_function.
 ```
 
-
 TASK
 Change interaction.reply() so that it uses the response we receive from the Open Ai client. 
 
 CHECKPOINT
 The /ask command responds to the user using the Open Ai API. Everytime you run the command you might get a slightly different response. 
 
+NOTE:
+If you send to many requests to the API at once the API might freeze. Wait a few minutes between requests. 
 
+ERROR HANDLING
+Sometimes the API might fail (eg. internet down, server down). Often errors will interupt the entire program. We can place our code in a try-catch block to prevent 
+our program from being stopped completely. 
+
+HINT
+```js
+async my_function {
+    try {
+        const x = await other_function();
+        return x;
+    } catch {
+        console.error('Something went wrong:', error)
+        return 'Error occured.';
+    }
+}
+```
+
+
+[PUT THIS ON THE NEXT PAGE]
 Right now the AI is not responding to the text you sent in Discord. To take in text input from Discord we need to add another option to the SlashCommandBuilder. 
 
 
