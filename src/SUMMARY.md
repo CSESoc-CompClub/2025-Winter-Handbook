@@ -1,18 +1,6 @@
 # Summary
 
 - [❄️ DAY 1 - INTRO TO JAVASCRIPT ❄️](1_day_1_javascript/main.md)
-<<<<<<< HEAD
-  - [💻 Setup](1_day_1_javascript/1_1_setup.md)
-  - [🎯 JS Fundamentals](1_day_1_javascript/1_2_fundamentals.md)
-    - [Hello World!](1_day_1_javascript/1_2_1_hello_world.md)
-    - [Variables](1_day_1_javascript/1_2_2_variables.md)
-
----
-
-- [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
-  - [Day 2 File](2_day_2_bots/2_1_new_file.md)
-
-=======
     - [💻 Setup](1_day_1_javascript/1_1_setup/1_1_setup.md)
     - [🎯 JS Fundamentals](1_day_1_javascript/1_2_js_fundamentals/1_2_fundamentals.md)
       - [Hello World!](1_day_1_javascript/1_2_js_fundamentals/1_2_1_hello_world.md)
@@ -36,15 +24,13 @@
       - [For...in](1_day_1_javascript/1_6_loops/1_6_3_for_in_loops.md)
       - [For...of](1_day_1_javascript/1_6_loops/1_6_4_for_of_loops.md)
     - [📜 Functions](1_day_1_javascript/1_7_functions/1_7_functions.md)
----
-- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
 
+- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
->>>>>>> main
----
+
+
 
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
-<<<<<<< HEAD
   - [📲 API Call Recap](3_day_3_ai/3_1_api_call.md)
     - [Calling the API](3_day_3_ai/3_2_caling_the_api.md) 
     - [Handling the Error](3_day_3_ai/3_3_handling_the_error.md)
@@ -56,6 +42,4 @@
     - [Creating a file](3_day_3_ai/3_9_file.md)
     - [Writing to the file](3_day_3_ai/3_10_writing_to_the_file.md)
     - [Reading from a file](3_day_3_ai/3_11_reading_from_a_file.md)
-=======
-    - [Day 3 File](3_day_3_ai/3_1_new_file.md)
->>>>>>> main
+
