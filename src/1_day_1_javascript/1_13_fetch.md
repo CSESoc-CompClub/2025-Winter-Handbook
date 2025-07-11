@@ -38,9 +38,9 @@
 > let params = new URLSearchParams();
 > params.append("count", 3)
 > 
-> let response = await fetch(`https://meowfacts.herokuapp.com/${params}`)
+> let response = await fetch(`https://meowfacts.herokuapp.com/?${params}`)
 > let data = await response.json()
 > console.log(data)
 > ```
 > 
-> Note the backticks \` instead of quotes "!
+> Note the backticks \` instead of quotes ", and the question mark!
