@@ -23,9 +23,12 @@
       - [For...in](1_day_1_javascript/1_6_loops/1_6_3_for_in_loops.md)
       - [For...of](1_day_1_javascript/1_6_loops/1_6_4_for_of_loops.md)
     - [📜 Functions](1_day_1_javascript/1_7_functions/1_7_functions.md)
+    - [🌐 APIs](1_day_1_javascript/1_10_api_basics.md)
+      - [Thunder Client](1_day_1_javascript/1_11_thunder_client.md)
+      - [Async](1_day_1_javascript/1_12_async.md)
+      - [Fetch](1_day_1_javascript/1_13_fetch.md)
 ---
 - [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
-
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
 ---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
