@@ -25,7 +25,7 @@
 > ```js
 > // string.length() returns the length of the string
 > let fruit = "apple";
-> console.log(fruit.length()); // prints 5
+> console.log(fruit.length); // prints 5
 > 
 > // string.toLowerCase() returns the string in all lowercase letters
 > let state = "NSW";
