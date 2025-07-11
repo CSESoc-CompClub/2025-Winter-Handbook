@@ -1,17 +1,17 @@
-# Async
+# 8.3 - Async
 
-> [!INFO]
+> [!INFO] Async/Await
 > - `async` is shorthand for "Asynchronous"
 > - `await` is shorthard for... "Await"
->
+> 
 > We use `async` and `await` for computations that may take a long time. In short, using these warns Javascript & the programmer that these operations may be "waiting" for a while, so we are explicitly waiting with `await`.
->
->In our case, the operations may be slow because using internet APIs can be slow.
+> 
+> In our case, the operations may be slow because using internet APIs can be slow.
 
 > [!INFO] Promises
->
+> 
 > All `async` functions, and functions like `fetch`, return a `Promise` instead of a value. A `Promise` is a guarantee that if you `await` the promise, you will get the data inside.
->
+> 
 > ```js
 > async function one() {
 >     return 1;

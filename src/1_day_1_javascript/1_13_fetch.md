@@ -1,6 +1,6 @@
-# Fetch
+# 8.4 - Fetch
 
-> [!INFO]
+> [!INFO] Fetch calls
 > `fetch` is the function we use to make an API call in Javascript.
 > 
 > In its most simple form, we simply call fetch using `await` (and then `await` again on some of the contents, as the thing returned by `fetch` is quite complex and we only need a little bit of it):
