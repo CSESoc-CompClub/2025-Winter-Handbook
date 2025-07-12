@@ -28,9 +28,11 @@
       - [Async](1_day_1_javascript/1_12_async.md)
       - [Fetch](1_day_1_javascript/1_13_fetch.md)
 ---
-- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
-    - [Message Formatting](2_day_2_bots/2_1_3_message_formatting.md)
-    - [Day 2 File](2_day_2_bots/2_1_new_file.md)
+- [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
+    - [Setting up your Discord account](2_day_2_bots/2_1_setting_up_discord.md)
+    - [Setting up your first Discord bot](2_day_2_bots/2_2_setting_up_bot.md)
+    - [What is the Discord API?](2_day_2_bots/2_3_conceptual_overview.md)
+    -  [Message Formatting](2_day_2_bots/2_1_3_message_formatting.md)
 ---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
     - [Day 3 File](3_day_3_ai/3_1_new_file.md)
