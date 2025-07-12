@@ -1,4 +1,5 @@
 # Summary
+
 - [❄️ DAY 1 - INTRO TO JAVASCRIPT ❄️](1_day_1_javascript/main.md)
     - [💻 Setup](1_day_1_javascript/1_1_setup/1_1_setup.md)
     - [🎯 JS Fundamentals](1_day_1_javascript/1_2_js_fundamentals/1_2_fundamentals.md)
@@ -28,8 +29,28 @@
       - [Async](1_day_1_javascript/1_12_async.md)
       - [Fetch](1_day_1_javascript/1_13_fetch.md)
 ---
-- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
+- [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
+    - [Setting up your Discord account](2_day_2_bots/2_1_setting_up_discord.md)
+    - [Setting up your first Discord bot](2_day_2_bots/2_2_setting_up_bot.md)
+    - [What is the Discord API?](2_day_2_bots/2_3_conceptual_overview.md)
+    - [Message Formatting](2_day_2_bots/2_4_message_formatting.md)
+    - [Events and Listeners](2_day_2_bots/2_5_1_events.md)
+    - [Slash Commands](2_day_2_bots/2_5_2_slash_commands.md)
 ---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
-    - [Day 3 File](3_day_3_ai/3_1_new_file.md)
+  - [📲 API Call Recap](3_day_3_ai/3_1_api_call.md)
+    - [Calling the API](3_day_3_ai/3_2_caling_the_api.md) 
+    - [Handling the Error](3_day_3_ai/3_3_handling_the_error.md)
+    - [Running the Program](3_day_3_ai/3_4_running_the_program.md)  
+  - [ 🤖 Add AI to Your Bots](3_day_3_ai/3_5_add_ai.md)
+    - [Create AI Slash Command](3_day_3_ai/3_6_create_ai.md)
+    - [Calling AI API](3_day_3_ai/3_7_calling_ai.md)
+    - [Using The Response From AI](3_day_3_ai/3_8_using_ai.md)
+    - [Handle The Error](3_day_3_ai/3_9_error_handling.md)
+    - [Customise Your AI](3_day_3_ai/3_10_customise_ai.md)
+  - [🧠 Challenge: Adding Memory to your AI](3_day_3_ai/3_11_new.md)
+    - [Creating a file](3_day_3_ai/3_12_file.md)
+    - [Writing to the file](3_day_3_ai/3_13_writing_to_the_file.md)
+    - [Reading from a file](3_day_3_ai/3_14_reading_from_a_file.md)
+

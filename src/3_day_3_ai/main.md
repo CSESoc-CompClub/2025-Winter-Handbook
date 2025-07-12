@@ -1,11 +1,15 @@
-> [!INFO] Main page for day 3!
-> Highlights information of additional information that users should take into
-> account, even when skimming.
+**Welcome to Day 3 of CompClub's winter workshops ☃️❄️!! Today you'll be finishing your discord.js bot and add an AI wrapper to it!**
 
-Make sure you aren't working directly on the main branch
+This will guide you through the how to add an AI wrapper to your bot. Complete the tasks at your own pace!
 
-> [!QUOTE] wow
-> Callouts are amazing
+If you have finish everything, there is a small challenge waiting for you in the end!
 
+To get started, press the right arrow button.
 
-Remove the above when you have updated the description of this page.
+> [!NOTE] Useful resources
+> Day 3 slides links: [https://go.compclub.org/winter-day-1](https://go.compclub.org/winter-day-1)
+> OpenAI Models:
+
+> [!IMPORTANT] Not sure? Ask!
+> Mentors are here to help you! We'd rather you ask a question than be struggling on something
+> for way too long.
