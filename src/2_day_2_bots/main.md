@@ -1,11 +1,3 @@
-> [!INFO] Main page for day 2!
-> Highlights information of additional information that users should take into
-> account, even when skimming.
+# Building Discord bots with `discord.js`
 
-Make sure you aren't working directly on the main branch
-
-> [!QUOTE] wow
-> Callouts are amazing
-
-
-Remove the above when you have updated the description of this page.
+Welcome to day 2!  In this tutorial we'll go over how to setup, invite and run some basic commands on your very own discord bot.

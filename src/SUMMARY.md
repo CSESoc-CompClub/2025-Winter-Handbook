@@ -24,12 +24,20 @@
       - [For...in](1_day_1_javascript/1_6_loops/1_6_3_for_in_loops.md)
       - [For...of](1_day_1_javascript/1_6_loops/1_6_4_for_of_loops.md)
     - [📜 Functions](1_day_1_javascript/1_7_functions/1_7_functions.md)
-
-- [DAY 2 - DISCORD JS BOTS](2_day_2_bots/main.md)
+    - [🌐 APIs](1_day_1_javascript/1_10_api_basics.md)
+      - [Thunder Client](1_day_1_javascript/1_11_thunder_client.md)
+      - [Async](1_day_1_javascript/1_12_async.md)
+      - [Fetch](1_day_1_javascript/1_13_fetch.md)
+---
+- [☃️ DAY 2 - DISCORD JS BOTS ☃️](2_day_2_bots/main.md)
     - [Day 2 File](2_day_2_bots/2_1_new_file.md)
-
-
-
+    - [Setting up your Discord account](2_day_2_bots/2_1_setting_up_discord.md)
+    - [Setting up your first Discord bot](2_day_2_bots/2_2_setting_up_bot.md)
+    - [What is the Discord API?](2_day_2_bots/2_3_conceptual_overview.md)
+    - [Message Formatting](2_day_2_bots/2_4_message_formatting.md)
+    - [Events and Listeners](2_day_2_bots/2_5_1_events.md)
+    - [Slash Commands](2_day_2_bots/2_5_2_slash_commands.md)
+---
 - [🧣 DAY 3 - AI WRAPPER BOTS 🧣](3_day_3_ai/main.md)
   - [📲 API Call Recap](3_day_3_ai/3_1_api_call.md)
     - [Calling the API](3_day_3_ai/3_2_caling_the_api.md) 
