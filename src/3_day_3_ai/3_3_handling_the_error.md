@@ -7,9 +7,7 @@
 >   Something went wrong: TypeError: Failed to fetch
 > ```
 
-~~~admonish tip collapsible=true, title='<span style="color:#00e7c1">Tip</span>'
-<b><span style="color: #00e7c1"></span></b>
-```javascript
-console.error('Something went wrong:', error);
-```
-~~~
+>[!TIP]
+> ```javascript
+> console.error('Something went wrong:', error);
+> ```

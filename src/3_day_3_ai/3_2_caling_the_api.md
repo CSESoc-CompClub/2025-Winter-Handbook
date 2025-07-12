@@ -42,12 +42,10 @@
 > - `await response.json()` reads the body of the response and turns it into a JavaScript object.
 > - The result is stored in the `data` variable.
 
-~~~admonish tip collapsible=true, title='<span style="color:#00e7c1">Tip</span>'
-<b><span style="color: #00e7c1"></span></b>
-```Javascript
-    const data = await response.json();
-```
-~~~
+> [!TIPS] Tips
+> ```Javascript
+>    const data = await response.json();
+> ```
 
 ### Print the Response to the Console
 > [!INFO] Info
