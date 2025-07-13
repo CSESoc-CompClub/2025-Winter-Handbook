@@ -8,7 +8,7 @@
 
 > [!SUCCESS] Task
 > 1. Create a new file called `ai.js` in the `commands/utilities` folder.
-> 2. Create a nre slash command for the AI wrapper
+> 2. Create a new slash command for the AI wrapper
 
 > [!TIP] Tip
 > ```javascript
@@ -17,7 +17,7 @@
 >  .setName('some command');
 >  // can add more information about the slash command
 >
-> export async function execute (interaction) {
+> async function execute (interaction) {
 >  // do something    
 >
 > }
