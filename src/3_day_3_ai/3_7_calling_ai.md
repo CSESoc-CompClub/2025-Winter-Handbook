@@ -1,15 +1,18 @@
 # Connect To AI with API
 
+### Install The dotenv package
+> [!TASK]
+> 1. Run this command in the terminal`npm install dotenv --save` to download the dotenv package
+> 2. Import the `.env` file -> `import 'dotenv/config'`
+
 ### Import the OpenAI API
 > [!INFO] Info
-> We need the OpenAI library and our API key to make requests. The key is stored in a config file.
+> We need the OpenAI library and our API key to make requests. The key is stored in a variable called process.env
 
 > [!TIP] Tip
 > ```javascript
 > import OpenAI from "openai";
->
-> import config from '../../config.json' with { type: "json" };
-> const { aiApiKey } = config;
+> const apiKey = process.env.OPENAI_API_KEY
 > ```
 
 ---
@@ -21,7 +24,7 @@
 
 > [!TIP] Tip
 > ```javascript
-> const client = new OpenAI({ ... });
+> const client = new OpenAI({ apiKey });
 > ```
 
 ---

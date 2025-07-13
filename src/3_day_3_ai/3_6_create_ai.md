@@ -14,7 +14,7 @@
 > ```javascript
 > import { SlashCommandBuilder } from 'discord.js'
 > export const data = new SlashCommandBuilder()
->  .name('some command');
+>  .setName('some command');
 >  // can add more information about the slash command
 >
 > export async function execute (interaction) {
