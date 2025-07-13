@@ -7,7 +7,8 @@
 
 ### Import the OpenAI API
 > [!INFO] Info
-> We need the OpenAI library and our API key to make requests. The key is stored in a variable called process.env
+> 1. Install OpenAI by running this `npm install openai`
+> 2. We need the OpenAI library and our API key to make requests. The key is stored in a variable called process.env
 
 > [!TIP] Tip
 > ```javascript
